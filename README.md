@@ -43,14 +43,14 @@ To make the script easily accessible from anywhere on your Mac, you can create a
 
 Now you can run the script from anywhere using:
 ```
-ezclone <source_directory> <destination_directory> <pattern-or-item> [pattern-or-item]...
+ezclone <source_directory> <destination_directory> [pattern-or-item]...
 ```
 
 ## Usage
 
 To use the `easy_clone.sh` script, run the following command:
 ```sh
-./easy_clone.sh <source_directory> <destination_directory> <pattern-or-item> [pattern-or-item]...
+./easy_clone.sh <source_directory> <destination_directory> [pattern-or-item]...
 ```
 ## Example
 ```sh
