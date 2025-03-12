@@ -1,6 +1,6 @@
 # Easy Clone
 
-`easy_clone.sh` is a simple script that lets you clone multiple files with a single command
+`easy_clone.sh` is a simple script that lets you clone multiple files with folder structure in a single command
 
 ## Prerequisites
 
