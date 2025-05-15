@@ -11,11 +11,11 @@ Before you begin, ensure you have met the following requirement:
 
 1. Clone the repository:
     ```
-    git clone https://github.com/yourusername/easy-copy.git
+    git clone https://github.com/paco1103/easy-clone.git
     ```
 2. Navigate to the project directory:
     ```
-    cd easy-copy
+    cd easy-clone
     ```
 3. Make the script executable:
     ```
@@ -68,3 +68,7 @@ If you want to contribute to this project, please fork the repository and create
 ## License
 
 This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
+
+
+## Watch More
+Easy Deployment: https://github.com/paco1103/easy-deployment (A script for deploying multiple files with folder structure and backup the existing file in a single command)
